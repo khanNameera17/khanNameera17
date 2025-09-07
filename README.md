@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nameera Khan</h1>
 <h3 align="center">🚀 A Passionate Developer from India</h3>
 
-<img align="right" alt="hijab girl coding" width="400" src="https://cdn.dribbble.com/userupload/22228251/file/original-dd4133b41bcb1d2cef1679f2395ac06a.gif" />
+<img align="right" alt="hijab girl coding" width="280" src="https://cdn.dribbble.com/userupload/22228251/file/original-dd4133b41bcb1d2cef1679f2395ac06a.gif" />
 
 ---
 
