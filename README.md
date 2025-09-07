@@ -12,7 +12,6 @@
 - 📫 Reach me at: **[nameerakhan54@gmail.com](mailto:nameerakhan54@gmail.com)**  
 
 ---
-
 ### 🤝 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/nameera-khan17/" target="_blank">
