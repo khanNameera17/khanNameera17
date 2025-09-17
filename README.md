@@ -64,11 +64,11 @@
 
 ---
 
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khanNameera17&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanNameera17&theme=radical" alt="GitHub streak" height="160"/>
-</p>
+</p> -->
 
 ---
 
